@@ -20,9 +20,10 @@ An AI-powered fitness web application that helps users with fitness-related quer
 ---
 
 ## 🛠️ Tech Stack
-- Frontend: HTML, CSS, JavaScript
-- AI: Gemini AI
-- Tools: GitHub, Browser APIs
+- Frontend:Python, HTML, CSS, JavaScript, C/C++, OOPs Concepts
+- AI: Gemini AI, DeepSeek, chatgpt etc
+- Cloud: Microsoft Azure, Azure Virtual Machines, Azure Portal, Google AI studio
+- Developer Tools: Git, GitHub, Vs Code, Browser APIs
 
 ---
 
